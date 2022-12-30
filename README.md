@@ -4,7 +4,7 @@ Simple code that allows you to modify/edit the title of an external process' win
 **NOTE**: Please credit me if you plan to use the code in your project!
 
 ## Usage
-Edits the title of the selected process.
+**Edits the title of the selected process.**
 ```cs
 set_window_title(title_choice.mod_title, combo_box, combo_box.Text, text_box.Text);
 ```
